@@ -1,2 +1,4 @@
 Step 1: Order the pizza
 Step 2: Wait for delivery
+Step 3: Pay delivery driver w/ tip included
+Enjoy nice, hot pizza
